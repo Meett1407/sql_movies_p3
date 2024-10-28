@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Project Title**: Movie Data Analysis
+
 **Level**: Beginner
 
 This project is crafted to demonstrate SQL skills and techniques used in the entertainment industry, specifically in movie data analysis. It involves setting up a movie database, performing data cleaning, exploratory data analysis (EDA), and answering business questions using SQL queries. This project is ideal for newcomers in data analysis, offering a solid foundation in SQL applied to media and entertainment data.
